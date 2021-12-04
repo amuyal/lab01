@@ -1,0 +1,10 @@
+#!/bin/bash
+im_age_21=$1
+if [ $im_age_21 == 21 ]
+then
+	echo "im $im_age_21"
+	else
+	echo " im not 21 im $im_age_21"
+	fi
+
+
